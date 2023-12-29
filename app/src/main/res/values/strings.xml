@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">samandroid</string>
+    <string name="channel_name">sam</string>
+    <string name="channel_description">load model</string>
+    <string-array name="model_array">
+        <item>model1(default model)</item>
+        <item>model2(customized model)</item>
+    </string-array>
+    <string-array name="start_stop_array">
+        <item>start</item>
+        <item>stop</item>
+    </string-array>
+</resources>
