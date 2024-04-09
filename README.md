@@ -1,3 +1,5 @@
+
+
 # Segment Anything on Android
 
 Welcome to the Segment Anything on Android project! This repository houses the Android application that leverages the powerful "Segment Anything" model to provide real-time object segmentation capabilities directly on your Android device. Our goal is to make advanced segmentation technology accessible and usable for a wide range of applications, from augmented reality to privacy-focused photography.
@@ -14,6 +16,7 @@ Welcome to the Segment Anything on Android project! This repository houses the A
 
 To get started with Segment Anything on Android, follow these steps:
 
+0. Download Sag models
 1. Clone this repository:
    ```bash
    git clone https://github.com/Kepavel/sam-android.git
