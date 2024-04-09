@@ -42,4 +42,3 @@ welcome contributions to the Segment Anything on Android project! If you have su
 ## Acknowledgments
 
 Thanks to the creators of the "Segment Anything" model for their groundbreaking work.
-Special thanks to all contributors and users of this project.
