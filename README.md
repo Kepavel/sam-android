@@ -2,7 +2,7 @@
 
 # Segment Anything on Android
 
-Welcome to the Segment Anything on Android project! This repository houses the Android application that leverages the powerful "Segment Anything" model to provide real-time object segmentation capabilities directly on your Android device. Our goal is to make advanced segmentation technology accessible and usable for a wide range of applications, from augmented reality to privacy-focused photography.
+Welcome to the Segment Anything on Android project! This repository houses the Android application that leverages the powerful "Segment Anything" model to provide real-time object segmentation capabilities directly on your Android device. This Project is to make advanced segmentation technology accessible and usable for a wide range of applications, from augmented reality to privacy-focused photography.
 
 ## Features
 
@@ -37,7 +37,7 @@ After installing the app, follow these steps to start segmenting objects:
 
 ## Contributing
 
-We welcome contributions to the Segment Anything on Android project! If you have suggestions for improvements or bug fixes, please feel free to:
+welcome contributions to the Segment Anything on Android project! If you have suggestions for improvements or bug fixes, please feel free to:
 
 ## Acknowledgments
 
